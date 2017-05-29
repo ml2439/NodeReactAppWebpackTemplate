@@ -13,4 +13,6 @@ npm start
 The project will be running at `http://localhost:3000/`
 ## What it is for
 With these dependencies, webpack will bundle all `.js`, `.css`, `.scss` and `.json` files together in `dist/assets/bundle.js`. 
-The current stylesheets and two `.js` files are just for demo.
+The current files in `src` are just for demo.
+## Notes
+* `autoprefixer`: Parse CSS and add vendor prefixes to CSS rules. It's a plugin configured in `postcss.config.js`.
