@@ -1,7 +1,7 @@
 {
   "name": "readingbooksreact",
   "version": "0.0.0",
-  "description": "A React app that keeps a record of books reading.",
+  "description": "A React app boilerplate.",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server"
