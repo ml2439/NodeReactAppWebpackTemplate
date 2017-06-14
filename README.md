@@ -1,5 +1,5 @@
-# Node React webpack setup template
-**This template aims to save your time from setting up webpack config files to build a React App with Node.js**
+# Node React webpack setup boilerplate
+**This boilerplate aims to save your time from setting up webpack config files to build a React App**
 ## Usage
 1. Clone or download this project
 2. In the project directory, install the dependencies
