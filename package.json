@@ -1,7 +1,7 @@
 {
-  "name": "react-webpack-boilerplate",
+  "name": "react-sass-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "This boilerplate aims to save your time from setting up webpack config files to build a React App",
+  "description": "The boilerplate that saves your time from setting up webpack config files to build a React App",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server"
